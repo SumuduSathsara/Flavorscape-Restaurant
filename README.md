@@ -7,60 +7,70 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+# 🚀 Flavorscape-Restaurant 🚀
+Flavorscape is a restaurant web app where users can view "Our Story," "About Us," "Today's Special Menu," and "Testimonials" on the homepage. Users can explore menus by category. Admins can edit or delete categories, menus, tablets, and reservations, offering seamless management for both users and administrators.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Using
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+    -Laravel
+    -MySQL
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+##  Features That Shine:
 
-## Learning Laravel
+🌟User-Facing Features:
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+    ✨Home Page:
+          -The restaurant's history, mission, and daily specials are displayed in sections like Our Story,
+           About Us, and Today's Special Menu.
+          
+    ✨Category & Menu:
+          -The menu allows users to view food categories on the home page, with each category's related
+           menu displayed.
+          
+    ✨Table Reservation:
+          -Users can view available tables and make reservations by filling out a reservation form with
+           details like date, time, and number of people.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+🌟Admin Features:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+    ✨Category Management:
+          -The menu functions include adding a new food category, editing an existing category's name or 
+           details, and deleting an unwanted category.
 
-## Laravel Sponsors
+    ✨Menu Management:
+          -The menu functions include adding new items, updating existing ones, and deleting items from
+           the system.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+    ✨Table Management:
+          -The reservation system allows users to add, update, or delete tables, ensuring efficient management
+           of seating and availability.
 
-### Premium Partners
+    ✨Reservation Management:
+          -The system allows users to view reservations, add, update, and delete them, allowing them to view, 
+           add, edit, and delete reservations.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+## 🔥 My project Demo 🔥
 
-## Contributing
+### Home Page
+![Screenshot 2024-10-18 122109](https://github.com/user-attachments/assets/2a80989c-1298-409c-85a0-25c478a50b6f)
+![Screenshot 2024-10-18 122128](https://github.com/user-attachments/assets/3771ebef-9e60-41fb-b3ef-8ee8dd8ccd42)
+![Screenshot 2024-10-18 122145](https://github.com/user-attachments/assets/e7ade06b-353f-4e64-8586-f2cc411294ce)
+![Screenshot 2024-10-18 122203](https://github.com/user-attachments/assets/909ecb97-f55a-4be0-813b-ea8319c2ca5d)
+![Screenshot 2024-10-18 122222](https://github.com/user-attachments/assets/11be6d23-27e7-46c6-b774-7a29f43b468f)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### Category Page
+![Screenshot 2024-10-18 122242](https://github.com/user-attachments/assets/1c8c78df-a923-495a-891f-cecbfc11b49b)
 
-## Code of Conduct
+### Menu Page
+![Screenshot 2024-10-18 122307](https://github.com/user-attachments/assets/4b421c2a-79cb-4d04-9ac8-f6a4d58e8637)
+![Screenshot 2024-10-18 122323](https://github.com/user-attachments/assets/609ec478-3b6d-432d-b560-aae46fe2e3e2)
+![Screenshot 2024-10-18 122441](https://github.com/user-attachments/assets/21723599-42fa-4f28-a4ab-211669ae5c8a)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### Reservation Page
+![Screenshot 2024-10-18 122502](https://github.com/user-attachments/assets/7ee7f81b-7b4a-4953-a105-9b6637bfa695)
+![Screenshot 2024-10-18 122605](https://github.com/user-attachments/assets/b34c1024-7e77-49ea-b438-ffb082a3241a)
+![Screenshot 2024-10-18 122641](https://github.com/user-attachments/assets/56142b4b-09d6-4030-9d2d-fd7cc0e160f4)
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Admin Category Page
+![Screenshot 2024-10-18 122800](https://github.com/user-attachments/assets/4b6fff0d-f540-4a32-afbe-151ccbb8b884)
+![Screenshot 2024-10-18 122843](https://github.com/user-attachments/assets/e00324cb-1978-46fb-ab0d-3615b6b25d3b)
