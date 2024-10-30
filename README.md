@@ -52,7 +52,7 @@ Flavorscape is a restaurant web app where users can view "Our Story," "About Us,
 ## 🔥 My project Demo 🔥
 
 ### Home Page
-![Screenshot 2024-10-18 122109](https://github.com/user-attachments/assets/2a80989c-1298-409c-85a0-25c478a50b6f)
+![Screenshot 2024-10-18 122109](https://github.com/user-attachments/assets/c5873465-8208-4edb-af63-2e7fecda62df)
 ![Screenshot 2024-10-18 122128](https://github.com/user-attachments/assets/3771ebef-9e60-41fb-b3ef-8ee8dd8ccd42)
 ![Screenshot 2024-10-18 122145](https://github.com/user-attachments/assets/e7ade06b-353f-4e64-8586-f2cc411294ce)
 ![Screenshot 2024-10-18 122203](https://github.com/user-attachments/assets/909ecb97-f55a-4be0-813b-ea8319c2ca5d)
