@@ -53,10 +53,11 @@ Flavorscape is a restaurant web app where users can view "Our Story," "About Us,
 
 ### Home Page
 ![Screenshot 2024-10-18 122109](https://github.com/user-attachments/assets/c5873465-8208-4edb-af63-2e7fecda62df)
-![Screenshot 2024-10-18 122128](https://github.com/user-attachments/assets/3771ebef-9e60-41fb-b3ef-8ee8dd8ccd42)
-![Screenshot 2024-10-18 122145](https://github.com/user-attachments/assets/e7ade06b-353f-4e64-8586-f2cc411294ce)
-![Screenshot 2024-10-18 122203](https://github.com/user-attachments/assets/909ecb97-f55a-4be0-813b-ea8319c2ca5d)
-![Screenshot 2024-10-18 122222](https://github.com/user-attachments/assets/11be6d23-27e7-46c6-b774-7a29f43b468f)
+![Screenshot 2024-10-18 122128](https://github.com/user-attachments/assets/107ff43e-a2cc-40f9-8f63-365a6a0aa4e4)
+![Screenshot 2024-10-18 122145](https://github.com/user-attachments/assets/2b4343fd-b912-4473-85c6-919fd714fbe7)
+![Screenshot 2024-10-18 122203](https://github.com/user-attachments/assets/b96fdce0-521e-4166-a87a-52f2d090d9c1)
+![Screenshot 2024-10-18 122222](https://github.com/user-attachments/assets/fcf85479-8e64-470d-851d-c1a6d09970f0)
+
 
 ### Category Page
 ![Screenshot 2024-10-18 122242](https://github.com/user-attachments/assets/1c8c78df-a923-495a-891f-cecbfc11b49b)
