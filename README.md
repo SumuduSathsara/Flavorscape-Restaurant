@@ -60,18 +60,18 @@ Flavorscape is a restaurant web app where users can view "Our Story," "About Us,
 
 
 ### Category Page
-![Screenshot 2024-10-18 122242](https://github.com/user-attachments/assets/1c8c78df-a923-495a-891f-cecbfc11b49b)
+![Screenshot 2024-10-18 122242](https://github.com/user-attachments/assets/e9520a89-4c73-486b-a1af-282203918a8a)
 
 ### Menu Page
-![Screenshot 2024-10-18 122307](https://github.com/user-attachments/assets/4b421c2a-79cb-4d04-9ac8-f6a4d58e8637)
-![Screenshot 2024-10-18 122323](https://github.com/user-attachments/assets/609ec478-3b6d-432d-b560-aae46fe2e3e2)
-![Screenshot 2024-10-18 122441](https://github.com/user-attachments/assets/21723599-42fa-4f28-a4ab-211669ae5c8a)
+![Screenshot 2024-10-18 122307](https://github.com/user-attachments/assets/eb675423-76f9-45de-bde7-498f66224d0a)
+![Screenshot 2024-10-18 122323](https://github.com/user-attachments/assets/a3499779-e150-40bf-af93-ca79996a6540)
+![Screenshot 2024-10-18 122441](https://github.com/user-attachments/assets/e162cbdb-3fbe-4412-b1ea-36dc37ee9e23)
 
 ### Reservation Page
-![Screenshot 2024-10-18 122502](https://github.com/user-attachments/assets/7ee7f81b-7b4a-4953-a105-9b6637bfa695)
-![Screenshot 2024-10-18 122605](https://github.com/user-attachments/assets/b34c1024-7e77-49ea-b438-ffb082a3241a)
-![Screenshot 2024-10-18 122641](https://github.com/user-attachments/assets/56142b4b-09d6-4030-9d2d-fd7cc0e160f4)
+![Screenshot 2024-10-18 122502](https://github.com/user-attachments/assets/949f6893-5ba1-4cd8-980d-f1a95d998ab2)
+![Screenshot 2024-10-18 122605](https://github.com/user-attachments/assets/252409f6-ec72-44bb-8e7a-049efe45ec92)
+![Screenshot 2024-10-18 122641](https://github.com/user-attachments/assets/07b6b493-3367-45a6-ab1b-e73768b78320)
 
 ### Admin Category Page
-![Screenshot 2024-10-18 122800](https://github.com/user-attachments/assets/4b6fff0d-f540-4a32-afbe-151ccbb8b884)
-![Screenshot 2024-10-18 122843](https://github.com/user-attachments/assets/e00324cb-1978-46fb-ab0d-3615b6b25d3b)
+![Screenshot 2024-10-18 122800](https://github.com/user-attachments/assets/302f9127-7237-4a61-97bf-3b1065f5e024)
+![Screenshot 2024-10-18 122843](https://github.com/user-attachments/assets/58aef011-2ca6-4da4-a52a-02f20c7d5aa1)
